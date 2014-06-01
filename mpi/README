@@ -1,0 +1,2 @@
+mpicc
+mpirun -n [number] ./lab[x]
